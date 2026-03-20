@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperheroAgency
 {
-    internal class Mystic
+    internal class Mystic : Superhero, IFly, ITelepathy
     {
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace SuperheroAgency
 {
-    internal class Gadgeteer : Superhero, ITech, IStrength
+    internal class CombatMission<T> : Mission<T>
     {
+        public CombatMission(string location, int reward) : base(location, reward)
+        {
+        }
     }
 }

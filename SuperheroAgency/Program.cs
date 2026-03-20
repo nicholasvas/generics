@@ -6,12 +6,17 @@ namespace SuperheroAgency
 {
     internal class Program
     {
+        private static object strandedCat;
+
         //List<string> myList = new List<string>() { "Hello", "world", 1 };
-        
+
         static void Main(string[] args)
         {
             Superhero Spiderman = new Superhero("Spiderman", "Peter Parker", Alignment.GOOD, 20);
             Console.WriteLine(Spiderman.Alias + Spiderman.SecretIdentity + Spiderman.Age + Spiderman.Alignment );
+
+            var reyzhen = new Mystic("Michael", "Reyzhen", 7000, Alignment.GOOD);
+            strandedCat.HeroesDeployed.Add(reyzhen);
 
             int bookCount = 0;
             Stack<object> myStack = new Stack<object>();

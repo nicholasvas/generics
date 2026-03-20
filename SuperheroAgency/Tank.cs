@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SuperheroAgency
 {
-    internal class Tank
+    internal class Tank : Superhero, IFly, IStrength
     {
     }
 }
