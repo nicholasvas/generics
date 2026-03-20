@@ -16,6 +16,12 @@ namespace SuperheroAgency
             int bookCount = 0;
             Stack<object> myStack = new Stack<object>();
 
+            Spiderman.Lift("Spiderman");
+            Spiderman.ReadMind("Spiderman");
+            Spiderman.Hack("Spiderman");
+            Spiderman.Fly("Spiderman");
+
+
             myStack.Push("book 1");
             myStack.Push("book 2");
             myStack.Push("book 3");
@@ -30,6 +36,8 @@ namespace SuperheroAgency
             }
 
             Console.WriteLine("You have " + bookCount + " items in the stack.");
+
+         
 
 
         

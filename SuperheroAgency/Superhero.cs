@@ -9,22 +9,22 @@ namespace SuperheroAgency
     internal class Superhero : IFly, ITech, IStrength, ITelepathy
     {
 
-        public string Alias { get; set; }
-        public string SecretIdentity { get; set; }
-        public int Age {  get; set; }
+        public string Alias {get; set;}
+        public string SecretIdentity {get; set;}
+        public int Age { get; set;}
         public Alignment Alignment {get; set;}
 
         //iFly
-        public double FlightSpeed { get; set; }
-        public double MaxHeight { get; set; }
+        public double FlightSpeed {get; set;}
+        public double MaxHeight {get; set;}
         //IHack
-        public string Gadget {  get; set; }
+        public string Gadget {get; set;}
 
         //IStrength
-        public int StrengthLevel {  get; set; }
+        public int StrengthLevel {get; set;}
 
         //iTelepathy
-        public int PowerLevel { get; set; } 
+        public int PowerLevel {get; set;} 
 
         public void ReadMind(string alias)
         {
@@ -33,7 +33,7 @@ namespace SuperheroAgency
 
         public void Lift(string alias)
         {
-            Console.WriteLine(alias + " lifs with all their might!");
+            Console.WriteLine(alias + " lifts with all their might!");
         }
 
         public void Fly(string alias)
