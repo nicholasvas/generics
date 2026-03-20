@@ -1,0 +1,15 @@
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.exe
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.deps.json
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.runtimeconfig.json
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.dll
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.pdb
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.AssemblyInfoInputs.cache
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.AssemblyInfo.cs
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.sourcelink.json
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.dll
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\refint\SuperheroAgency.dll
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.pdb
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.genruntimeconfig.cache
+C:\Users\nicko\Desktop\Northcoders\Generics\SuperheroAgency\SuperheroAgency\obj\Debug\net8.0\ref\SuperheroAgency.dll
